@@ -29,7 +29,7 @@ export default function Navbar() {
 
         {/* Desktop Nav */}
         <div className="hidden md:flex space-x-8 items-center">
-          <NavLink to="/" className={getLinkClass}>
+          <NavLink to="/home" className={getLinkClass}>
             Home
           </NavLink>
           <div className="relative">

@@ -22,7 +22,7 @@ const Cart = () => {
               Start adding some products to see them here.
             </p>
             <Link
-              to="/"
+              to="/home"
               className="mt-4 inline-block px-6 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg shadow transition"
             >
               Go to Shop
