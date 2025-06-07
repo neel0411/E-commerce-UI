@@ -7,4 +7,4 @@
 
 # DEMO
 
-- CLICK here https://neel0411.github.io/E-commerce-UI
+- CLICK here https://neel0411.github.io/E_commerceUI
