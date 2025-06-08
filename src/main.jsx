@@ -22,6 +22,7 @@ root.render(
           <Route path="/home" element={<Home />} />
           <Route path="/product/:id" element={<ProductDetails />} />
           <Route path="/cart" element={<Cart />} />
+<Route path="*" element={<E_commerceUI />} />
         </Routes>
       </CartProvider>
     </BrowserRouter>
