@@ -4,6 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/E_commerceUI/",
   plugins: [react(), tailwindcss()],
-  // base: "/E_commerceUI",
 });
