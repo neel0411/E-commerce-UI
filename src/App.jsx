@@ -1,3 +1,5 @@
+// this file is for you can either use app component or direct main.jsx to route
+
 // import { Routes, Route } from "react-router-dom";
 // import Home from "./pages/Home"; //component
 // import ProductDetails from "./pages/ProductDetails"; //component

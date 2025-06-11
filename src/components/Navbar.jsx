@@ -86,7 +86,7 @@ export default function Navbar() {
         }`}
       >
         <NavLink
-          to="/"
+          to="/home"
           onClick={() => setIsOpen(false)}
           className={({ isActive }) =>
             isActive
